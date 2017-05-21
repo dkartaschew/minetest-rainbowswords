@@ -10,7 +10,12 @@ For Minetest 0.4.14 and later
 
 ## Licenses: 
 
-Code MIT. Media (textures) CC BY-SA 3.0
+Code MIT. 
+
+Media (textures) CC BY-SA 3.0
+
+Note: Textures are derived from those included in the minetest game. The original textures are CC BY-SA 3.0, 
+hence the license has been keep as is.
 
 See license.txt for license information
 
